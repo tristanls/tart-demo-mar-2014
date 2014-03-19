@@ -1,0 +1,22 @@
+{
+  "name": "tart-demo-mar-2014",
+  "version": "0.0.0",
+  "description": "TartJS demo at Distributed Systems Enthusiasts (Mar 2014)",
+  "main": "index.js",
+  "dependencies": {
+    "tart": "0.2.x",
+    "tart-marshal": "0.1.3",
+    "tart-transport-udp": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/tart-demo-mar-2014.git"
+  },
+  "keywords": [
+    "tart",
+    "demo",
+    "actor"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
