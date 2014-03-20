@@ -1,6 +1,6 @@
 {
   "name": "tart-demo-mar-2014",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TartJS demo at Distributed Systems Enthusiasts (Mar 2014)",
   "main": "index.js",
   "dependencies": {
