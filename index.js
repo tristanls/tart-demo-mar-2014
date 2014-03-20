@@ -748,3 +748,22 @@ to5555Proxy({customer: in7777, first: true});
 // All the way to the browser
 // - using Ansible to send any message to anywhere
 // - see tart-transport-eventsource README example
+
+
+
+// Links and stuff
+
+// TartJS
+// - http://github.com/organix/tartjs
+
+// TartPy
+// - https://github.com/waltermoreira/tartpy
+// - IPython Notebook: http://nbviewer.ipython.org/github/waltermoreira/tartpy/blob/master/demo/tartpy_demo.ipynb
+
+// Implementing Actors in JavaScript
+//   by Dale Schumacher
+// - http://www.dalnefre.com/wp/2014/03/actors-in-javascript/
+
+// Towards a Universal Implementation of Unforgeable Actor Addresses
+//   by Tristan Slominski
+// - http://www.dalnefre.com/wp/2013/10/towards-a-universal-implementation-of-unforgeable-actor-addresses/

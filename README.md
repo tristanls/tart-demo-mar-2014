@@ -22,8 +22,14 @@ Copy and paste lines from `index.js` as desired:
 
 ## Also See
 
-@waltermoreira also put together a nice [tartpy](https://github.com/waltermoreira/tartpy) demo as well. See: [tartpy demo](https://github.com/waltermoreira/tartpy/tree/master/demo).
+  * @waltermoreira also put together a nice [tartpy](https://github.com/waltermoreira/tartpy) demo as well. See: [tartpy demo](https://github.com/waltermoreira/tartpy/tree/master/demo).
+
+  * [Implementing Actors in JavaScript by Dale Schumacher](http://www.dalnefre.com/wp/2014/03/actors-in-javascript/)
 
 ## Sources
 
   * [Actor Idioms](https://apice.unibo.it/xwiki/bin/download/AGERE2012/AcceptedPapers/ageresplash2012submission3.pdf) by @dalnefre
+  * [Towards a Universal Implementation of Unforgeable Actor Addresses](http://www.dalnefre.com/wp/2013/10/towards-a-universal-implementation-of-unforgeable-actor-addresses/)
+  * [TartJS UDP transport](https://github.com/tristanls/tart-transport-udp)
+  * [TartJS Ansible](https://github.com/tristanls/tart-ansible) (still a little "raw")
+  * [TartJS EventSource transport](https://github.com/tristanls/tart-transport-eventsource) (also a little "raw")
